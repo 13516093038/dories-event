@@ -1,0 +1,22 @@
+{
+    "name": "Dories.Event.Runtime",
+    "rootNamespace": "Dories.Event.Runtime",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "DORIES_R3_SUPPORT"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.r3",
+            "expression": "",
+            "define": "DORIES_R3_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "com.dories.event",
+    "displayName": "Dories Event",
+    "version": "1.0.0",
+    "unity": "2022.3",
+    "description": "基于 R3 的全局类型化事件总线：发布方与订阅方只约定消息类型，订阅即 R3 Observable。需先安装 R3（NuGet R3 + com.cysharp.r3），未安装时本包不参与编译。",
+    "author": {
+        "name": "Dories"
+    },
+    "keywords": [
+        "event",
+        "eventbus",
+        "r3"
+    ],
+    "license": "MIT",
+    "dependencies": {}
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Dories.Event.Editor",
+    "rootNamespace": "Dories.Event.Editor",
+    "references": [
+        "Dories.Event.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "DORIES_R3_SUPPORT"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.cysharp.r3",
+            "expression": "",
+            "define": "DORIES_R3_SUPPORT"
+        }
+    ],
+    "noEngineReferences": false
+}
